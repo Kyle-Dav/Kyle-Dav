@@ -1,5 +1,4 @@
 - Kyle David Adams
-- Possible Future Counter Cyber Terrorist
 - kyledavadams@gmail.com
 
 <!---
